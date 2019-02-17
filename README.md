@@ -17,17 +17,17 @@ Udział człowieka sprowadza się jedynie do ustalenia stanu początkowego komó
 
 Reguły gry według Conwaya 
 
- Martwa komórka, która ma dokładnie 3 żywych sąsiadów, staje się żywa w następnej jednostce czasu (rodzi się) 
+* Martwa komórka, która ma dokładnie 3 żywych sąsiadów, staje się żywa w następnej jednostce czasu (rodzi się) 
 
- Żywa komórka z 2 albo 3 żywymi sąsiadami pozostaje nadal żywa; przy innej liczbie sąsiadów umiera (z „samotności” albo „zatłoczenia”). 
+* Żywa komórka z 2 albo 3 żywymi sąsiadami pozostaje nadal żywa; przy innej liczbie sąsiadów umiera (z „samotności” albo „zatłoczenia”). 
 
 Reguły, jakim podlega automat opisywane są często skrótowo w następujący sposób: 
 
- przed ukośnikiem umieszcza się te liczby komórek w sąsiedztwie, dla których żywe komórki przeżywają (dla reguły Conwaya będzie to 23); 
+* przed ukośnikiem umieszcza się te liczby komórek w sąsiedztwie, dla których żywe komórki przeżywają (dla reguły Conwaya będzie to 23); 
 
- następnie umieszcza się ukośnik: /; 
+* następnie umieszcza się ukośnik: /; 
 
- po ukośniku umieszcza się te liczby komórek w sąsiedztwie, dla których martwe komórki ożywają (dla reguły Conwaya będzie to 3); 
+* po ukośniku umieszcza się te liczby komórek w sąsiedztwie, dla których martwe komórki ożywają (dla reguły Conwaya będzie to 3); 
 
 Reguły Conwaya można więc zapisać: 23/3, a reguły Trzy Cztery: 34/34. 
 
