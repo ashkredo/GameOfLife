@@ -35,6 +35,7 @@ Reguły Conwaya można więc zapisać: 23/3, a reguły Trzy Cztery: 34/34.
 Zaimplementowano automat komórkowy  działający na skończonej planszy z cyklicznymi warunkami brzegowymi, z możliwością zadania reguł gry.
 
 ![alt text](https://github.com/s15444/GameOfLife/blob/master/bin/1.PNG)
+
 ![alt text](https://github.com/s15444/GameOfLife/blob/master/bin/3.PNG)
 ![alt text](https://github.com/s15444/GameOfLife/blob/master/bin/4.PNG)
 ![alt text](https://github.com/s15444/GameOfLife/blob/master/bin/5.PNG)
