@@ -36,6 +36,6 @@ Zaimplementowano automat komórkowy  działający na skończonej planszy z cykli
 
 ![alt text](https://github.com/s15444/GameOfLife/blob/master/bin/1.PNG)
 
+![alt text](https://github.com/s15444/GameOfLife/blob/master/bin/2.PNG)
 ![alt text](https://github.com/s15444/GameOfLife/blob/master/bin/3.PNG)
 ![alt text](https://github.com/s15444/GameOfLife/blob/master/bin/4.PNG)
-![alt text](https://github.com/s15444/GameOfLife/blob/master/bin/5.PNG)
